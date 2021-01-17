@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A3B472425B29ABE00141788 /* SmoothPanel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A3B472325B29ABE00141788 /* SmoothPanel.m */; };
 		0AAEC31625B14DCB00834A9D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAEC31525B14DCB00834A9D /* AppDelegate.m */; };
 		0AAEC31925B14DCB00834A9D /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAEC31825B14DCB00834A9D /* SceneDelegate.m */; };
 		0AAEC31C25B14DCB00834A9D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AAEC31B25B14DCB00834A9D /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A3B472225B29ABE00141788 /* SmoothPanel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SmoothPanel.h; sourceTree = "<group>"; };
+		0A3B472325B29ABE00141788 /* SmoothPanel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SmoothPanel.m; sourceTree = "<group>"; };
 		0AAEC31125B14DCB00834A9D /* SmoothPanel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmoothPanel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AAEC31425B14DCB00834A9D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0AAEC31525B14DCB00834A9D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				0AAEC31825B14DCB00834A9D /* SceneDelegate.m */,
 				0AAEC31A25B14DCB00834A9D /* ViewController.h */,
 				0AAEC31B25B14DCB00834A9D /* ViewController.m */,
+				0A3B472225B29ABE00141788 /* SmoothPanel.h */,
+				0A3B472325B29ABE00141788 /* SmoothPanel.m */,
 				0AAEC31D25B14DCB00834A9D /* Main.storyboard */,
 				0AAEC32025B14DCE00834A9D /* Assets.xcassets */,
 				0AAEC32225B14DCE00834A9D /* LaunchScreen.storyboard */,
@@ -270,6 +275,7 @@
 				0AAEC31625B14DCB00834A9D /* AppDelegate.m in Sources */,
 				0AAEC32725B14DCE00834A9D /* main.m in Sources */,
 				0AAEC31925B14DCB00834A9D /* SceneDelegate.m in Sources */,
+				0A3B472425B29ABE00141788 /* SmoothPanel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
